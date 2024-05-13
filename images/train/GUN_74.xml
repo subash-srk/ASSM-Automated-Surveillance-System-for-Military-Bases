@@ -1,0 +1,26 @@
+<annotation>
+	<folder>soldier_weapon</folder>
+	<filename>GUN_74.jpg</filename>
+	<path>C:\Users\Galwin_2\Desktop\soldier\soldier_weapon\GUN_74.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GUN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>129</ymin>
+			<xmax>483</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>
