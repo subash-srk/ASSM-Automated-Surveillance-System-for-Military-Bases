@@ -16,12 +16,12 @@ import smtplib
 from email.message import EmailMessage
 import imghdr
 from time import sleep
-email_add = 'madhanraja0987@gmail.com'
-email_pass = "yjqqnijnsfjigeqf"
+email_add = ''
+email_pass = ""
 msg = EmailMessage()
 msg['Subject'] = "INTRUDER DETECTED"
-msg['From'] = "madhanraja0987@gmail.com"
-msg['To'] = "subashkarnan77@gmail.com"
+msg['From'] = ""
+msg['To'] = ""
 msg.set_content("INTRUDER DETECTED ON BASE")
 
 def email(): 
